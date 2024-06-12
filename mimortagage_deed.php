@@ -16,7 +16,7 @@
             <div class="" data-bs-interval="10000">
                 <img src="assets/media/inner_page_back.png" class="d-block w-100" alt="assets/media/banner.png" />
                 <div class="carousel-caption d-none d-md-block text-white">
-                    <h1 class="fs-45 mb-5 fw-bolder mb-0 text-uppercase">Agreement to sale mou</h1>
+                    <h1 class="fs-45 mb-5 fw-bolder mb-0 text-uppercase">Mortagage Deed</h1>
                 </div>
             </div>
         </section>
@@ -33,36 +33,33 @@
                             <img src="assets/media/blog_img.png" class="card-img-top" alt="..." />
                             <div class="card-body white_box">
                                 <div class="detail_text mb-5">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">What is an Agreement to Sell?</h5>
+                                    <h5 class="primary_color mb-4 mt-3 three_line_show">What is a Mortgage Deed?</h5>
                                     <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    An agreement to sell is a contract between a seller and a buyer in which the seller agrees to sell property to the buyer at a specified price. It is generally used to sell immovable property such as land or buildings. The Agreement to Sell includes all the terms and conditions agreed upon by both parties. 
+                                            Mortgage deeds are legal documents or instruments that pass over a property’s legal rights to the loan provider, which they can exercise in case of a loan default. This document gives lenders the property rights to sell the foreclosed property and recoup their defaulted loan amount to protect their interest.
+                                    </p>
+                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
+                                    The person who mortgages a property against a loan is termed a mortgagor, whereas the person or party who lends a loan against the property is called a mortgagee. The mortgage deed contains all the loan terms and conditions involved. Registration of the deed is essential to give it legal validity. For registration, both parties must sign the deed, pay stamp duty, and at least two witnesses must attest to it.
                                     </p>
                                 </div>
                                 <div class="detail_text mb-5">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">What is importance of Agreement to Sell?</h5>
+                                    <h5 class="primary_color mb-4 mt-3 three_line_show">Importance of a Mortgage Deed</h5>
                                     <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    An Agreement to Sell a contract is important because it legally binds the parties involved in the sale of a property. This contract outlines the terms and conditions of the sale, including the price, date of sale, etc. The agreement protects parties from fraud or misrepresentation by clearly stating all material facts about the property. Further, it can be used as evidence in court if there are any disputes between the parties.
+                                    After understanding the mortgage deed meaning, you should know that it is necessary when a property owner loans money from a lending institution and transfers their property’s interest to the lender. In other words, when you borrow a loan against your property, the deed secures both parties’ interest and rights over the asset. Here are a few reasons why a deed is important:
                                     </p>
+                                    <ul class="listing hadding_list">
+                                        <li><span class="fs-15 black_text text-decoration-none">It determines the parties involved in a loan deal, including the borrower and lender, known as the mortgagor and mortgagee, respectively.</span></li>
+                                        <li><span class="fs-15 black_text text-decoration-none">The document enforces the lender's rights in court by ensuring that if the borrower defaults on the loan repayment, they can sell the property to get their payment.</span></li>
+                                        <li><span class="fs-15 black_text text-decoration-none">The deed provides a thorough investigation of the property's title and interest, helping determine the property's rightful owners.</span></li>
+                                    </ul>
+
                                 </div>
-                                <div class="detail_text mb-5">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">Stamp Duty on an Agreement to Sell</h5>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                        In India, the buyer is liable to pay stamp duty whenever any immovable property is transferred. The amount of stamp duty payable depends on the state in which the property is situated as well as the value of the property.
-                                    </p>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    Similarly, when an agreement to sell is executed, stamp duty is also payable on it. The amount of stamp duty payable on an agreement to sell depends on various factors such as the property’s value, the nature of the transaction (sale/purchase/exchange/lease), etc.
-                                    </p>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    The party who executes the agreement to sell is liable to pay stamp duty. In most cases, the buyer pays stamp duty on an Agreement to Sell. 
-                                    </p>
-                                </div>
+                               
                                 <div class="detail_text mb-5 d-none">
                                     <h5 class="primary_color mb-4 mt-3 three_line_show">Why is It Important to Perform a Property Title Verification before purchase any Property?</h5>
                                     <ul class="listing hadding_list">
-                                        <li><a href="" class="fs-15 black_text text-decoration-none">Wide Spectrum of Clients</a></li>
-                                        <li><a href="" class="fs-15 black_text text-decoration-none">Wide Spectrum of Clients</a></li>
-                                        <li><a href="" class="fs-15 black_text text-decoration-none">Wide Spectrum of Clients</a></li>
-                                        <li><a href="" class="fs-15 black_text text-decoration-none">Wide Spectrum of Clients</a></li>
+                                        <li><a href="" class="fs-15 black_text text-decoration-none">The document enforces the lender's rights in court by ensuring that if the borrower defaults on the loan repayment, they can sell the property to get their payment.</a></li>
+                                        <li><a href="" class="fs-15 black_text text-decoration-none">The deed provides a thorough investigation of the property's title and interest, helping determine the property's rightful owners.</a></li>
+            
                                     </ul>
                                 </div>
                                 <div class="detail_text mb-5 d-none">

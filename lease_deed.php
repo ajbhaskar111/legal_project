@@ -16,7 +16,7 @@
             <div class="" data-bs-interval="10000">
                 <img src="assets/media/inner_page_back.png" class="d-block w-100" alt="assets/media/banner.png" />
                 <div class="carousel-caption d-none d-md-block text-white">
-                    <h1 class="fs-45 mb-5 fw-bolder mb-0 text-uppercase">Agreement to sale mou</h1>
+                    <h1 class="fs-45 mb-5 fw-bolder mb-0 text-uppercase">Lease Deed</h1>
                 </div>
             </div>
         </section>
@@ -33,36 +33,20 @@
                             <img src="assets/media/blog_img.png" class="card-img-top" alt="..." />
                             <div class="card-body white_box">
                                 <div class="detail_text mb-5">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">What is an Agreement to Sell?</h5>
+                                    <h5 class="primary_color mb-4 mt-3 three_line_show">What is a Lease Deed?</h5>
                                     <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    An agreement to sell is a contract between a seller and a buyer in which the seller agrees to sell property to the buyer at a specified price. It is generally used to sell immovable property such as land or buildings. The Agreement to Sell includes all the terms and conditions agreed upon by both parties. 
+                                    A lease deed is a contract between the owner of property i.e. lessor and the tenant i.e. lessee, it contains all the stipulations of lease, including the rent/lease to be paid, security deposit to be made, etc. A lease deed is usually made when the property is rented out for a long period of time. 
                                     </p>
                                 </div>
-                                <div class="detail_text mb-5">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">What is importance of Agreement to Sell?</h5>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    An Agreement to Sell a contract is important because it legally binds the parties involved in the sale of a property. This contract outlines the terms and conditions of the sale, including the price, date of sale, etc. The agreement protects parties from fraud or misrepresentation by clearly stating all material facts about the property. Further, it can be used as evidence in court if there are any disputes between the parties.
-                                    </p>
-                                </div>
-                                <div class="detail_text mb-5">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">Stamp Duty on an Agreement to Sell</h5>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                        In India, the buyer is liable to pay stamp duty whenever any immovable property is transferred. The amount of stamp duty payable depends on the state in which the property is situated as well as the value of the property.
-                                    </p>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    Similarly, when an agreement to sell is executed, stamp duty is also payable on it. The amount of stamp duty payable on an agreement to sell depends on various factors such as the property’s value, the nature of the transaction (sale/purchase/exchange/lease), etc.
-                                    </p>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    The party who executes the agreement to sell is liable to pay stamp duty. In most cases, the buyer pays stamp duty on an Agreement to Sell. 
-                                    </p>
-                                </div>
-                                <div class="detail_text mb-5 d-none">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">Why is It Important to Perform a Property Title Verification before purchase any Property?</h5>
+                             
+                               
+                                <div class="detail_text mb-5 ">
+                                    <h5 class="primary_color mb-4 mt-3 three_line_show">What  are the essential clauses of a Lease Deed?</h5>
                                     <ul class="listing hadding_list">
-                                        <li><a href="" class="fs-15 black_text text-decoration-none">Wide Spectrum of Clients</a></li>
-                                        <li><a href="" class="fs-15 black_text text-decoration-none">Wide Spectrum of Clients</a></li>
-                                        <li><a href="" class="fs-15 black_text text-decoration-none">Wide Spectrum of Clients</a></li>
-                                        <li><a href="" class="fs-15 black_text text-decoration-none">Wide Spectrum of Clients</a></li>
+                                        <li><span class="fs-15 black_text text-decoration-none">Property details, including area, address, furniture etc. if provided are mentioned in the lease deed.</span></li>
+                                        <li><span  class="fs-15 black_text text-decoration-none">Lease duration, minimum lock in period, its validity and provision for its renewal etc.</span></li>
+                                        <li><sapn  class="fs-15 black_text text-decoration-none">Rent, maintenance, security deposit to be paid by the Lessee and the due date. Other important provisions, such as interest and penalty on delayed payment. It should also be mentioned that the details of payment to be made by the Lessee on a monthly basis, such as electricity charges, water bills or any other utility costs.</sapn></li>
+
                                     </ul>
                                 </div>
                                 <div class="detail_text mb-5 d-none">

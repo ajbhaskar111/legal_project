@@ -16,7 +16,7 @@
             <div class="" data-bs-interval="10000">
                 <img src="assets/media/inner_page_back.png" class="d-block w-100" alt="assets/media/banner.png" />
                 <div class="carousel-caption d-none d-md-block text-white">
-                    <h1 class="fs-45 mb-5 fw-bolder mb-0 text-uppercase">Agreement to sale mou</h1>
+                    <h1 class="fs-45 mb-5 fw-bolder mb-0 text-uppercase">Sale deed</h1>
                 </div>
             </div>
         </section>
@@ -35,26 +35,21 @@
                                 <div class="detail_text mb-5">
                                     <h5 class="primary_color mb-4 mt-3 three_line_show">What is an Agreement to Sell?</h5>
                                     <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    An agreement to sell is a contract between a seller and a buyer in which the seller agrees to sell property to the buyer at a specified price. It is generally used to sell immovable property such as land or buildings. The Agreement to Sell includes all the terms and conditions agreed upon by both parties. 
+                                    A sale deed is a document that shows the transfer of ownership and title of a property from a seller to a buyer. It is a crucial document for both the buyer / transferee and the seller / transferor. The purchase or sale of the property is not legally complete until a sale deed agreement is signed by and between buyer / transferee and the seller / transferor. 
                                     </p>
                                 </div>
                                 <div class="detail_text mb-5">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">What is importance of Agreement to Sell?</h5>
+                                    <h5 class="primary_color mb-4 mt-3 three_line_show">What is importance of Sale Deed?</h5>
                                     <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    An Agreement to Sell a contract is important because it legally binds the parties involved in the sale of a property. This contract outlines the terms and conditions of the sale, including the price, date of sale, etc. The agreement protects parties from fraud or misrepresentation by clearly stating all material facts about the property. Further, it can be used as evidence in court if there are any disputes between the parties.
+                                    The registration of sale deed protects the rights of both the buyer / transferee and the seller / transferor. It contains description of the property being purchased, including the square footage and the location along with consideration, terms and conditions of property transfer.
                                     </p>
                                 </div>
                                 <div class="detail_text mb-5">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">Stamp Duty on an Agreement to Sell</h5>
+                                    <h5 class="primary_color mb-4 mt-3 three_line_show">Stamp Duty on Sale Deed</h5>
                                     <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                        In India, the buyer is liable to pay stamp duty whenever any immovable property is transferred. The amount of stamp duty payable depends on the state in which the property is situated as well as the value of the property.
+                                    The stamp duty required for registration of Sale Deed is 5% in Maharashtra Further, in some of the areas Local Body Tax (LBT) at 1% and Cities having Notified Projects (e.g. Metro Rail) additional 1% Stamp Duty is payable. If parties are already entered into Agreement to Sale and have paid all the Stamp Duty then Sale Deed is made by paying Stamp Duty of Rs. 100/-. 
                                     </p>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    Similarly, when an agreement to sell is executed, stamp duty is also payable on it. The amount of stamp duty payable on an agreement to sell depends on various factors such as the property’s value, the nature of the transaction (sale/purchase/exchange/lease), etc.
-                                    </p>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    The party who executes the agreement to sell is liable to pay stamp duty. In most cases, the buyer pays stamp duty on an Agreement to Sell. 
-                                    </p>
+                                  
                                 </div>
                                 <div class="detail_text mb-5 d-none">
                                     <h5 class="primary_color mb-4 mt-3 three_line_show">Why is It Important to Perform a Property Title Verification before purchase any Property?</h5>

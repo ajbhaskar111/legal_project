@@ -29,16 +29,13 @@
                             <h2 class="fs-35 text-black fw-bold mt-3">Legal Assure: Your Trusted Legal Partner</h2>
                         </div>
                         <p class="detail_text mb-4">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                            it to make a type specimen book.
+                        Welcome to Rishikesh Heda & Associates, your trusted partner in navigating the intricate landscape of property law in India. Founded with a vision to provide comprehensive legal solutions tailored to meet the diverse needs of our clients, we specialize in property law and offer expert counsel and representation across all facets of real estate transactions and disputes.
                         </p>
                         <p class="detail_text mb-4">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                            it to make a type specimen book.
+                        With years of experience serving individuals, businesses, and organizations across India, we understand the complexities and nuances of property law in this dynamic and ever-evolving legal environment. Our team of seasoned lawyers brings together a wealth of expertise, a deep understanding of local regulations, and a commitment to delivering results that exceed expectations.
                         </p>
                         <p class="detail_text mb-4">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                            it to make a type specimen book.
+                        At Rishikesh Heda & Associates, we prioritize client satisfaction above all else. We believe in fostering strong, long-term relationships built on trust, integrity, and transparency. When you choose us as your legal partner, you can rest assured that your property matters are in capable hands.
                         </p>
                         <div class="row mt-5 mb-3">
                             <div class="col-lg-12 col-md-12 col-sm-12">
@@ -72,7 +69,7 @@
                             </div>
                             <div class="card-body p-0">
                                 <h5 class="card-title text-uppercase fw-700 text-center mb-3">Vision</h5>
-                                <p class="card-text fs-15 text-justify mb-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p class="card-text fs-15 text-justify mb-3">Whether you're buying, selling, leasing, or facing disputes related to residential, commercial, or industrial properties, our dedicated team is here to provide you with personalized attention and strategic guidance every step of the way. From conducting due diligence and drafting agreements to representing you in negotiations and litigation, we strive to protect your interests and achieve your objectives effectively and efficiently.</p>
                             </div>
                         </div>
                     </div>
@@ -83,7 +80,7 @@
                             </div>
                             <div class="card-body p-0">
                                 <h5 class="card-title text-uppercase fw-700 text-center mb-3">Mission</h5>
-                                <p class="card-text fs-15 text-justify mb-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p class="card-text fs-15 text-justify mb-3">We are dedicated to keeping our clients informed and empowered throughout the legal process, providing clear and concise explanations, and offering proactive solutions to address any challenges that may arise.</p>
                             </div>
                         </div>
                     </div>
@@ -94,7 +91,7 @@
                             </div>
                             <div class="card-body p-0">
                                 <h5 class="card-title text-uppercase fw-700 text-center mb-3">Core Values</h5>
-                                <p class="card-text fs-15 text-justify mb-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p class="card-text fs-15 text-justify mb-3">At Rishikesh Heda & Associates, we take pride in our track record of success and our reputation for delivering results. Whether you're a first-time homebuyer, a seasoned investor, or a business owner seeking to protect your assets, we are here to help you navigate the complexities of property law with confidence and peace of mind.</p>
                             </div>
                         </div>
                     </div>

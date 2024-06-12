@@ -16,7 +16,7 @@
             <div class="" data-bs-interval="10000">
                 <img src="assets/media/inner_page_back.png" class="d-block w-100" alt="assets/media/banner.png" />
                 <div class="carousel-caption d-none d-md-block text-white">
-                    <h1 class="fs-45 mb-5 fw-bolder mb-0 text-uppercase">Agreement to sale mou</h1>
+                    <h1 class="fs-45 mb-5 fw-bolder mb-0 text-uppercase">Release Deed</h1>
                 </div>
             </div>
         </section>
@@ -33,36 +33,20 @@
                             <img src="assets/media/blog_img.png" class="card-img-top" alt="..." />
                             <div class="card-body white_box">
                                 <div class="detail_text mb-5">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">What is an Agreement to Sell?</h5>
+                                    <h5 class="primary_color mb-4 mt-3 three_line_show">What is a Release Deed?</h5>
                                     <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    An agreement to sell is a contract between a seller and a buyer in which the seller agrees to sell property to the buyer at a specified price. It is generally used to sell immovable property such as land or buildings. The Agreement to Sell includes all the terms and conditions agreed upon by both parties. 
+                                    A release deed is a legal document that plays an important role in property transactions and settlements. It serves as a formal agreement between two parties, releasing one party's interest or rights in a property in favour of the other.
                                     </p>
                                 </div>
-                                <div class="detail_text mb-5">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">What is importance of Agreement to Sell?</h5>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    An Agreement to Sell a contract is important because it legally binds the parties involved in the sale of a property. This contract outlines the terms and conditions of the sale, including the price, date of sale, etc. The agreement protects parties from fraud or misrepresentation by clearly stating all material facts about the property. Further, it can be used as evidence in court if there are any disputes between the parties.
-                                    </p>
+                              
                                 </div>
-                                <div class="detail_text mb-5">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">Stamp Duty on an Agreement to Sell</h5>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                        In India, the buyer is liable to pay stamp duty whenever any immovable property is transferred. The amount of stamp duty payable depends on the state in which the property is situated as well as the value of the property.
-                                    </p>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    Similarly, when an agreement to sell is executed, stamp duty is also payable on it. The amount of stamp duty payable on an agreement to sell depends on various factors such as the property’s value, the nature of the transaction (sale/purchase/exchange/lease), etc.
-                                    </p>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    The party who executes the agreement to sell is liable to pay stamp duty. In most cases, the buyer pays stamp duty on an Agreement to Sell. 
-                                    </p>
-                                </div>
-                                <div class="detail_text mb-5 d-none">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">Why is It Important to Perform a Property Title Verification before purchase any Property?</h5>
+                                <div class="detail_text mb-5 ">
+                                    <h5 class="primary_color mb-4 mt-3 three_line_show">The Deed of Reconveyance will typically include:</h5>
                                     <ul class="listing hadding_list">
-                                        <li><a href="" class="fs-15 black_text text-decoration-none">Wide Spectrum of Clients</a></li>
-                                        <li><a href="" class="fs-15 black_text text-decoration-none">Wide Spectrum of Clients</a></li>
-                                        <li><a href="" class="fs-15 black_text text-decoration-none">Wide Spectrum of Clients</a></li>
-                                        <li><a href="" class="fs-15 black_text text-decoration-none">Wide Spectrum of Clients</a></li>
+                                        <li><span class="fs-15 black_text text-decoration-none">A deed of release can release right of any person in favour of another. When any person dies intestate i.e. without making Will then his heirs can enter into release deed to give up their rights in certain property. </span></li>
+                                        <li><span class="fs-15 black_text text-decoration-none">A deed of release can also free an employer and an employee of any obligations that they had under their employment agreement, such as in the case of a severance package.</span></li>
+                                        <li><span class="fs-15 black_text text-decoration-none">Deed of release forms can also be used to relieve personal guarantee obligations for business loans.</span></li>
+                                    
                                     </ul>
                                 </div>
                                 <div class="detail_text mb-5 d-none">
