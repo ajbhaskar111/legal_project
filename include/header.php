@@ -73,14 +73,14 @@
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 Services
             </a>
-            <ul class="dropdown-menu">
+            <ul class="dropdown-menu sub_listing">
                 <li><a class="dropdown-item" href="./detail.php">Agreement to sale mou</a></li>
                 <li><a class="dropdown-item" href="./sale_deed.php">Sale deed</a></li>
                 <li><a class="dropdown-item" href="./giftb_deed.php">Giftb deed</a></li>
                 <li><a class="dropdown-item" href="./lease_deed.php">Lease Deed</a></li>
                 <li><a class="dropdown-item" href="./leave_licence_arg.php">Leave and License Agreement</a></li>
                 <li><a class="dropdown-item" href="./will.php">Will</a></li>
-                <li><a class="dropdown-item" href="./mimortagage_deed.php">Mortagage Deedl</a></li>
+                <li><a class="dropdown-item" href="./mimortagage_deed.php">Mortagage Deed</a></li>
                 <li><a class="dropdown-item" href="./reconveyance_deed.php">Reconveyance Deed</a></li>
                 <li><a class="dropdown-item" href="./release_deed.php">Release Deed</a></li>
                 <li><a class="dropdown-item" href="./affidavit.php">Affidavit</a></li>

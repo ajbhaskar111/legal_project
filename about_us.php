@@ -62,36 +62,36 @@
         <section class="out_vision_section bg-black section_padding">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-12 mb-sm-space">
-                        <div class="card white_box text-center bg_gray">
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-sm-space same_column_heigh">
+                        <div class="card white_box text-center bg_gray h-100">
                             <div class="service_number_box mb-3 mx-auto">
                             <i class="far fa-eye"></i>
                             </div>
-                            <div class="card-body p-0">
+                            <div class="card-body p-0 ">
                                 <h5 class="card-title text-uppercase fw-700 text-center mb-3">Vision</h5>
-                                <p class="card-text fs-15 text-justify mb-3">Whether you're buying, selling, leasing, or facing disputes related to residential, commercial, or industrial properties, our dedicated team is here to provide you with personalized attention and strategic guidance every step of the way. From conducting due diligence and drafting agreements to representing you in negotiations and litigation, we strive to protect your interests and achieve your objectives effectively and efficiently.</p>
+                                <p class="card-text fs-15 text-justify mb-3 same_height">Whether you're buying, selling, leasing, or facing disputes related to residential, commercial, or industrial properties, our dedicated team is here to provide you with personalized attention and strategic guidance every step of the way. From conducting due diligence and drafting agreements to representing you in negotiations and litigation, we strive to protect your interests and achieve your objectives effectively and efficiently.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 mb-sm-space">
-                        <div class="card white_box text-center bg_gray">
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-sm-space same_column_heigh">
+                        <div class="card white_box text-center bg_gray h-100">
                             <div class="service_number_box mb-3 mx-auto">
                             <i class="fas fa-chart-bar"></i>
                             </div>
-                            <div class="card-body p-0">
+                            <div class="card-body p-0 ">
                                 <h5 class="card-title text-uppercase fw-700 text-center mb-3">Mission</h5>
-                                <p class="card-text fs-15 text-justify mb-3">We are dedicated to keeping our clients informed and empowered throughout the legal process, providing clear and concise explanations, and offering proactive solutions to address any challenges that may arise.</p>
+                                <p class="card-text fs-15 text-justify mb-3 same_height">We are dedicated to keeping our clients informed and empowered throughout the legal process, providing clear and concise explanations, and offering proactive solutions to address any challenges that may arise.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-12 col-sm-12 mb-sm-space">
-                        <div class="card white_box text-center bg_gray">
+                    <div class="col-lg-4 col-md-12 col-sm-12 mb-sm-space same_column_heigh">
+                        <div class="card white_box text-center bg_gray h-100">
                             <div class="service_number_box mb-3 mx-auto">
                             <i class="fas fa-wallet"></i>
                             </div>
                             <div class="card-body p-0">
                                 <h5 class="card-title text-uppercase fw-700 text-center mb-3">Core Values</h5>
-                                <p class="card-text fs-15 text-justify mb-3">At Rishikesh Heda & Associates, we take pride in our track record of success and our reputation for delivering results. Whether you're a first-time homebuyer, a seasoned investor, or a business owner seeking to protect your assets, we are here to help you navigate the complexities of property law with confidence and peace of mind.</p>
+                                <p class="card-text fs-15 text-justify mb-3 same_height">At Rishikesh Heda & Associates, we take pride in our track record of success and our reputation for delivering results. Whether you're a first-time homebuyer, a seasoned investor, or a business owner seeking to protect your assets, we are here to help you navigate the complexities of property law with confidence and peace of mind.</p>
                             </div>
                         </div>
                     </div>

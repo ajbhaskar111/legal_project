@@ -257,6 +257,14 @@ body{
     -webkit-box-orient: vertical;
   
 }
+.show_detail_three_line{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    min-height: 85px;
+}
 .form-control{
     border-radius: 10px;
     padding: 17px 30px;
@@ -373,6 +381,7 @@ body{
         -webkit-line-clamp: 3;
         -webkit-box-orient: vertical;
     }
+   
 }
 @media only screen and (min-width: 1000px){
     .pl-lg-5{
@@ -381,7 +390,27 @@ body{
     .text-md-right{
         text-align: right;
     }
+   
 }
 .nav-link.dropdown-toggle.show{
     color:white;
+}
+.contact_img_box{
+    background-image: url(../media/contact-us.png);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sub_listing li{
+  
+    padding: 0px 3px;
+}
+.sub_listing li a{
+    padding: 10px 8px;
+    font-weight: 400;
+    border-bottom: 1px solid #ddd;
+}
+.sub_listing li:last-child a{
+    border: none !important;
 }

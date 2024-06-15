@@ -31,72 +31,72 @@
                                 </div>
                             </div>
                             <img src="assets/media/blog_img.png" class="card-img-top" alt="..." />
-                            <div class="card-body white_box">
-                                <div class="detail_text mb-5">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">What is a Release Deed?</h5>
-                                    <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
-                                    A release deed is a legal document that plays an important role in property transactions and settlements. It serves as a formal agreement between two parties, releasing one party's interest or rights in a property in favour of the other.
-                                    </p>
-                                </div>
-                              
-                                </div>
-                                <div class="detail_text mb-5 ">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">The Deed of Reconveyance will typically include:</h5>
-                                    <ul class="listing hadding_list">
-                                        <li><span class="fs-15 black_text text-decoration-none">A deed of release can release right of any person in favour of another. When any person dies intestate i.e. without making Will then his heirs can enter into release deed to give up their rights in certain property. </span></li>
-                                        <li><span class="fs-15 black_text text-decoration-none">A deed of release can also free an employer and an employee of any obligations that they had under their employment agreement, such as in the case of a severance package.</span></li>
-                                        <li><span class="fs-15 black_text text-decoration-none">Deed of release forms can also be used to relieve personal guarantee obligations for business loans.</span></li>
-                                    
-                                    </ul>
-                                </div>
-                                <div class="detail_text mb-5 d-none">
-                                    <h5 class="primary_color mb-4 mt-3 three_line_show">Why is It Important to Perform a Property Title Verification before purchase any Property?</h5>
-                                    <div class="accordion" id="accordionExample">
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header">
-                                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                    Accordion Item #1
-                                                </button>
-                                            </h2>
-                                            <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                                                <div class="accordion-body">
-                                                    <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes
-                                                    control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth
-                                                    noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                <div class="card-body white_box">
+                                    <div class="detail_text mb-5">
+                                        <h5 class="primary_color mb-4 mt-3 three_line_show">What is a Release Deed?</h5>
+                                        <p class="card-text fs-15 text-justify show_detail_five_line black_text mb-4">
+                                        A release deed is a legal document that plays an important role in property transactions and settlements. It serves as a formal agreement between two parties, releasing one party's interest or rights in a property in favour of the other.
+                                        </p>
+                                    </div>
+                                
+                                   
+                                    <div class="detail_text mb-5 ">
+                                        <h5 class="primary_color mb-4 mt-3 three_line_show">The Deed of Reconveyance will typically include:</h5>
+                                        <ul class="listing hadding_list">
+                                            <li><span class="fs-15 black_text text-decoration-none">A deed of release can release right of any person in favour of another. When any person dies intestate i.e. without making Will then his heirs can enter into release deed to give up their rights in certain property. </span></li>
+                                            <li><span class="fs-15 black_text text-decoration-none">A deed of release can also free an employer and an employee of any obligations that they had under their employment agreement, such as in the case of a severance package.</span></li>
+                                            <li><span class="fs-15 black_text text-decoration-none">Deed of release forms can also be used to relieve personal guarantee obligations for business loans.</span></li>
+                                        
+                                        </ul>
+                                    </div>
+                                    <div class="detail_text mb-5 d-none">
+                                        <h5 class="primary_color mb-4 mt-3 three_line_show">Why is It Important to Perform a Property Title Verification before purchase any Property?</h5>
+                                        <div class="accordion" id="accordionExample">
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header">
+                                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                                        Accordion Item #1
+                                                    </button>
+                                                </h2>
+                                                <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                                                    <div class="accordion-body">
+                                                        <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes
+                                                        control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth
+                                                        noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                                    </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                    Accordion Item #2
-                                                </button>
-                                            </h2>
-                                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                                <div class="accordion-body">
-                                                    <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes
-                                                    control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth
-                                                    noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header">
+                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                                        Accordion Item #2
+                                                    </button>
+                                                </h2>
+                                                <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                                    <div class="accordion-body">
+                                                        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes
+                                                        control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth
+                                                        noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                                    </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                    Accordion Item #3
-                                                </button>
-                                            </h2>
-                                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                                <div class="accordion-body">
-                                                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes
-                                                    control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth
-                                                    noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header">
+                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                        Accordion Item #3
+                                                    </button>
+                                                </h2>
+                                                <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                                    <div class="accordion-body">
+                                                        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes
+                                                        control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth
+                                                        noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12">

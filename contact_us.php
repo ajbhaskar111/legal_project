@@ -24,48 +24,51 @@
         <section class="contact_detail section_padding">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-md-12 col-sm-12 mb-sm-space">
+                    <div class="col-lg-4 col-md-12 col-sm-12 mb-sm-space same_column_heigh ">
                         <div class="card white_box text-center bg_site_black position-relative mt-5 px-3">
                             <div class="test_user bg-black primary_color d-flex align-items-center justify-content-center shadow">
                                 <i class="fas fa-map-marker-alt fs-45"></i>
                             </div>
                             <div class="card-body">
                                 <h5 class="mt-5 primary_color mb-4">Office Address</h5>
-                                <p class="card-text fs-15 text-center show_detail_five_line text-gray">
+                                <p class="card-text fs-15 text-center show_detail_three_line text-gray">
                                     Ojas, Row House No. 2, Laxman Nagar,Balewadi High Street, Pune, Maharashtra - 411045
                                 </p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 mb-sm-space">
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-sm-space same_column_heigh">
                         <div class="card white_box text-center bg_site_black position-relative mt-5 px-3">
                             <div class="test_user bg-black primary_color d-flex align-items-center justify-content-center shadow">
                                 <i class="fas fa-mobile-alt fs-45"></i>
                             </div>
                             <div class="card-body">
                                 <h5 class="mt-5 primary_color mb-4">Call Us</h5>
-                                <p class="card-text fs-15 text-center show_detail_five_line text-gray mb-1">
-                                    +91 9881908241
-                                </p>
-                                <p class="card-text fs-15 text-center show_detail_five_line text-gray">
-                                    +91 9881908241
-                                </p>
+                                <div class="card-text fs-15 text-center show_detail_three_line text-gray mb-1">
+                                    <ul class="listing text-white">
+                                            <li> +91 9881908241</li>
+                                            <li>  +91 9881908241</li>
+                                    </ul>
+                                </div>
+                               
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 same_column_heigh">
                         <div class="card white_box text-center bg_site_black position-relative mt-5 px-3">
                             <div class="test_user bg-black primary_color d-flex align-items-center justify-content-center shadow">
                                 <i class="fas fa-envelope fs-45"></i>
                             </div>
                             <div class="card-body">
                                 <h5 class="mt-5 primary_color mb-4">Email Us</h5>
-                                <p class="card-text fs-15 text-center show_detail_five_line text-gray mb-1">
-                                    abc123@gmail.com
-                                </p>
-                                <p class="card-text fs-15 text-center show_detail_five_line text-gray">
-                                    abc123@gmail.com
-                                </p>
+                                <div class="card-text fs-15 text-center show_detail_three_line text-gray mb-1">
+                                  
+                                    <ul class="listing text-white">
+                                            <li>   abc123@gmail.com</li>
+                                            <li>   abc123@gmail.com</li>
+                                    </ul>
+                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -79,10 +82,11 @@
                     <h2 class="fs-35 black_text fw-bold mt-3 text-uppercase"><span class="primary_color">Get</span> in touch</h2>
                 </div>
                 <div class="row mx-0">
-                    <div class="col-lg-5 col-md-5 col-sm-12 px-0 d-none d-lg-block">
-                        <img src="assets/media/contact-us.png" alt="" srcset="" class="img-fluid" />
+                    <div class="col-lg-5 col-md-5 col-sm-12 px-0 d-none d-lg-block same_column_heigh ">
+                        <div class="contact_img_box"></div>
+                        <!-- <img src="assets/media/contact-us.png" alt="" srcset="" class="img-fluid" /> -->
                     </div>
-                    <div class="col-lg-7 col-md-12 col-sm-12 bg-black px-0">
+                    <div class="col-lg-7 col-md-12 col-sm-12 bg-black px-0 same_column_heigh">
                         <div class="p-3">
                             <div class="card bg-transparent border-0">
                                 <form class="row p-md-5 aling-align-items-center">
